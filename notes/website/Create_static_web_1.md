@@ -46,4 +46,5 @@ git push origin main
 ```
  
  ---
- 【待續】
+
+[【下一回】自架網站筆記：使用Github + Hugo（中）](https://ah-devworks.github.io/notes/website/create_static_web_2/)
