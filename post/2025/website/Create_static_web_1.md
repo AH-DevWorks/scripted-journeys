@@ -17,7 +17,7 @@ date: 2025-04-05
 
 ### PART I : 基礎設定
 1. 已經有github帳號
-2. Windows `winget install Hugo.Hugo.Extended` 安裝Hugo
+2. Windows `winget install Hugo.Hugo.Extended` 安裝Hugo（建議安裝 `Hugo Extended`版本，方便後續自訂模板樣式）
 3. github新建兩個repo：一個放內容（Contents-Repo），一個負責網站本身(Website-Repo. -- ex.AH-DevWorks.github.io)
 4. 初始化git分支
 ```bash
@@ -47,4 +47,4 @@ git push origin main
  
  ---
 
-[【下一回】自架網站筆記：使用Github + Hugo（中）](https://ah-devworks.github.io/notes/website/create_static_web_2/)
+#### [【下一回】自架網站筆記：使用Github + Hugo（中）](https://ah-devworks.github.io/notes/website/create_static_web_2/)

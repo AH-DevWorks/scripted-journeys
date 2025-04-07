@@ -3,7 +3,9 @@ title: 自架網站筆記：使用Github + Hugo（中）
 date: 2025-04-07
 ---
 
-[【前一回】自架網站筆記：使用Github + Hugo（中）](https://ah-devworks.github.io/notes/website/create_static_web_1/)
+#### [【前一回】自架網站筆記：使用Github + Hugo（上）](https://ah-devworks.github.io/notes/website/create_static_web_1/)
+
+---
 
 ### PART II : 設定內容倉庫（Contents-Repo）
 1. 本地另一個資料夾clone「放網站內容的repo（PART I步驟3建立的Contents-Repo）」
