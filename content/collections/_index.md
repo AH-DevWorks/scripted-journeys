@@ -1,6 +1,6 @@
 ---
 Type : "tags"
 layout : "collections"
-title: "Collections"
-subtitle : "Links from the Web community, curated by Bino."
+title: "資源推薦 | Collections"
+subtitle : "Links from the Web community, curated by A.H."
 ---
