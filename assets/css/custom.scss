@@ -36,6 +36,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "GenRyuMin2TW", sans-serif !important;
 }
 
+h1 { font-size: 42px; }
+h2 { font-size: 36px; }
+h3 { font-size: 28px; }
+h4 { font-size: 22px; }
+h5 { font-size: 18px; }
+h6 { font-size: 15px; }
+
 
 
 /* --- General --- */
@@ -88,7 +95,6 @@ p+p {
 .intro-header .tags-heading h1,
 .intro-header .categories-heading h1 {
   margin-top: 0;
-  /* font-size: 45px; */
 }
 
 .intro-header .post-heading h1 {
