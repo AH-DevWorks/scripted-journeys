@@ -27,7 +27,9 @@ mkdir content
 cd content
 mkdir notes post
 ```
-{{/*< alert_box role="danger" title="注意" content="結構資料夾要包含Hugo在building網站時需要的各子資料夾" >*/}}
+
+{{< alert_box role="danger" title="注意" content="結構資料夾要包含Hugo在building網站時需要的各子資料夾" >}}
+
 > 通常要有「contents」、「static」這兩個資料夾，但也不一定，像Lightbi就是「contents」、「assets」這兩個，「img」包含在assets/裡。建議翻查主題的Documents，有寫最好，沒寫的話就只能自己多hugo server測試幾次。
 
 4. 建立一篇測試文章，如 `echo -e "+++\ntitle = \"First Note\"\ndate = 2025-04-05\n+++\n\nThis is my first note." > content/notes/first-note.md` 或自己寫一個.md檔

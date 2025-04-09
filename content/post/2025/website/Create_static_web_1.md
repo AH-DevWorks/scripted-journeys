@@ -48,7 +48,9 @@ git push origin main
     + 編輯toml內容： A. [baseURL]改成步驟3負責網站本身的repo網址(通常是https://[user_name].github.io/)；B. [title]改隨意（會顯示往站上）；C. [theme]改成前幾步驟挑選的
 
 ---
+
 {{< alert_box role="success" title="關於hugo.toml參數" content="參數與功能跟主題密切相關，建議先翻看主題給的Documents。" >}}
+
 {{< info_cards header="suggest" title="以Lightbi為例" content="參數的說明就放在Demo網站的文章裡：[連結](https://lightbi-hugo-theme.netlify.app/en/post/2020/parameters/)" >}}
 
 ---
