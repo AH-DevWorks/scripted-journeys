@@ -49,9 +49,7 @@ git push origin main
 
 ---
 
-{{< alert_box role="success" title="關於hugo.toml參數" content="參數與功能跟主題密切相關，建議先翻看主題給的Documents。" >}}
-
-{{< info_cards header="suggest" title="以Lightbi為例" content="參數的說明就放在Demo網站的文章裡：[連結](https://lightbi-hugo-theme.netlify.app/en/post/2020/parameters/)" >}}
+{{< alert_box role="success" title="關於hugo.toml參數" content="參數與功能跟主題密切相關，建議先翻看主題給的Documents。以Lightbi為例，參數的說明就放在Demo網站的文章裡：https://lightbi-hugo-theme.netlify.app/en/post/2020/parameters/" >}}
 
 ---
 
