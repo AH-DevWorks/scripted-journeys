@@ -41,7 +41,7 @@ mkdir notes post
 + 注意這裡<b><u>不要</b></u>執行 `hugo new site`，Contents-Repo只負責網站上的內容檔案
 6. <mark>將 Contents-Repo 引入到 Website-Repo</mark>
    + cd回到 PART I 建立好的 Website-Repo 資料夾
-7. **加入 Contents-Repo 作為子模組，將 Contents-Repo 的內容直接映射到 content/ 跟 assets/ 資料夾**
+7. **加入 Contents-Repo 作為子模組，將 Contents-Repo 的內容直接映射到 content/ 跟 static/ 資料夾**
 ```bash
 git submodule add -b main https://github.com/[user_name]/[Contents-Repo].git Contents-Repo
 # 然後再分別把其下兩個資料夾連結到對應的「content/」「assets/」:
